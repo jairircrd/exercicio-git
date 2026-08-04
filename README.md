@@ -4,4 +4,4 @@ Repositório criado para praticar os comandos básicos do Git.
 
 ## Funcionalidade
 
-Esta funcionalidade utiliza o tema azul.
+Esta funcionalidade permite utilizar os temas azul e verde.
